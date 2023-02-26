@@ -7,5 +7,9 @@ branding:
 links:
 - text: Home
   link: bocl.blissos.org
+
 footer:
-  copyright: "&copy; Copyright {{ year }}. BlissLabs."
+  copyright: © Copyright 2013-{{ year }} – [BlissLabs](https://blisslabs.org) – All rights reserved
+  links:
+    - text: A BlissLabs Project
+      link: https://blisslabs.org
