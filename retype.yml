@@ -1,8 +1,8 @@
-input: .
+input: ./
 output: .retype
 url: bocl.blissos.org
 branding:
-  title: Bliss OS Hardware Compatibility List
+  title: Bliss OS Compatibility List
   label: Docs
 links:
 - text: Home
