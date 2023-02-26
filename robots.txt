@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bocl.blissos.org/sitemap.xml.gz
+Sitemap: https://blissroms-x86.github.io/CompatibiltyList/sitemap.xml.gz
