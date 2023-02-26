@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blissroms-x86.github.io/CompatibiltyList/sitemap.xml.gz
+Sitemap: https://blissos.org/tested/sitemap.xml.gz
