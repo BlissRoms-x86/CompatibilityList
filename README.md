@@ -6,8 +6,7 @@ Welcome to **Bliss OS Compatibility List** , this page is a documentation of har
 - Audio (Audio cards, DACs, MIDI players, etc)
 - Inputs (Touchscreen, Gamepads, etc)
 
-.... and more. It will include the current state of the device when running Bliss OS and also workaround if need. There is also a section for devices instead of hardware-specific if you want a summary of your desktop/laptop. 
-
+.... and more. It will include the current state of the device when running Bliss OS and also workaround if need. There is also a section for devices instead of hardware-specific if you want a summary of a desktop/laptop and a section for virtual machine or software rendering.
 
 ### Submit your hardware
 

@@ -1,11 +1,11 @@
 input: .
 output: .retype
-url: blissroms-x86.github.io
+url: bocl.blissos.org
 branding:
   title: Bliss OS Hardware Compatibility List
   label: Docs
 links:
 - text: Home
-  link: blissroms-x86.github.io
+  link: bocl.blissos.org
 footer:
   copyright: "&copy; Copyright {{ year }}. BlissLabs."
