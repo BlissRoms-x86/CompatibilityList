@@ -1,6 +1,6 @@
 input: ./
 output: .retype
-url: blissroms-x86.github.io/CompatibiltyList
+url: tested.blissos.org
 branding:
   title: Bliss OS Compatibility List
   label: Docs
